@@ -1,9 +1,9 @@
 # ned4ded.github.io
-## [Barbershop project](/barbershop/)
-- [Index](/barbershop/index.html)
-- [Catalog](/barbershop/catalog.html)
-  - [Catalog-item](/barbershop/catalog-item.html)
-- [Price](/barbershop/price.html)
+## [Barbershop project](https://ned4ded.github.io/barbershop/)
+- [Index](https://ned4ded.github.io/barbershop/index.html)
+- [Catalog](https://ned4ded.github.io/barbershop/catalog.html)
+  - [Catalog-item](https://ned4ded.github.io/barbershop/catalog-item.html)
+- [Price](https://ned4ded.github.io/barbershop/price.html)
 
 ## [Device project](/377247-device/)
 - [Index](/377247-device/index.html)
