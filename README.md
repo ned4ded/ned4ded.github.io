@@ -1,10 +1,9 @@
 # ned4ded.github.io
-## [Barbershop project](/377247-barbershop/)
-
-Site-map:
-- [Index](/377247-barbershop/index.html)
-- [Catalog](/377247-barbershop/catalog.html)
-  - [Catalog-item](/377247-barbershop/catalog-item.html)
+## [Barbershop project](/barbershop/)
+- [Index](/barbershop/index.html)
+- [Catalog](/barbershop/catalog.html)
+  - [Catalog-item](/barbershop/catalog-item.html)
+- [Price](/barbershop/price.html)
 
 ## [Device project](/377247-device/)
 - [Index](/377247-device/index.html)
