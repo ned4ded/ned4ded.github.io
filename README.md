@@ -1,6 +1,6 @@
 # ned4ded.github.io
 ## [Wikiruki main](https://github.com/ned4ded/wikiruki_main/)
-- [Index](https://ned4ded.github.io/wikiruki_main/)
+- [Index](https://ned4ded.github.io/wikiruki_main/app/)
 ---
 ## [Wikiruki landing](https://github.com/ned4ded/wikiruki_landing/)
 - [Index](https://ned4ded.github.io/wikiruki_landing/)
